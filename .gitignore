@@ -1,0 +1,35 @@
+﻿# File rahasia
+**/.env
+**/.env.*
+**/key.properties
+**/local.properties
+*.jks
+*.keystore
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Flutter dan Dart
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/ephemeral/
+**/.plugin_symlinks/
+
+# Android dan Gradle
+**/.gradle/
+**/.cxx/
+
+# Node.js
+**/node_modules/
+
+# Editor dan sistem
+**/.idea/
+**/.vscode/
+.DS_Store
+
+# Backup database
+*.sql.gz
+*.sql.zip
+*.dump
+*.bak
